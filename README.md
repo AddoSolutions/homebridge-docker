@@ -1,5 +1,5 @@
 [![Docker Stars](https://img.shields.io/docker/stars/nickartman/homebridge-smartthings.svg)](https://hub.docker.com/r/nickartman/homebridge-smartthings/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/nickartman/homebridge-smartthings.svg)](https://hub.docker.com/r/nickartman/homebridge-smartthings/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/nickartman/homebridge-smartthings.svg)](https://hub.docker.com/r/nickartman/homebridge-smartthings/) [![](https://images.microbadger.com/badges/image/nickartman/homebridge-smartthings.svg)](https://microbadger.com/images/nickartman/homebridge-smartthings "Get your own image badge on microbadger.com")
 [![GitHub forks](https://img.shields.io/github/forks/AddoSolutions/homebridge-smartthings.svg?style=social&label=Fork)](https://github.com/AddoSolutions/homebridge-smartthings)
 # Homebridge SmartThings on Docker
 
@@ -57,3 +57,4 @@ Here is what my config looks like (modified to preserve security of course):
 ```
 
 You will get that right out of the SmartThings tutorial I posted above.  Don't even try to come up with that yourself!
+ 
